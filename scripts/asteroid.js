@@ -15,6 +15,8 @@ Asteroid.prototype.relax = function()
 {
     if(this.entity.getPosition().z>=(this.camera.getPosition().z-15))
         this.entity.destroy();
+
+        
 };
 // swap method called for script hot-reloading
 // inherit your script state here
