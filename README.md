@@ -11,4 +11,4 @@ You can access it through this [link](https://playcanvas.com/project/481486/over
 - Added boarder, ship can not go out of the screen infinitely.
 - Added ship flying particles.
 - Added ship collision handler
-- Added Performance of asteroids is also optimized.
+- Performance of asteroids is also optimized.
